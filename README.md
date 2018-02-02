@@ -1,6 +1,6 @@
 # About Tal Peretz
 
-![](./photos/profile.jpg =301x334)
+<img src="./photos/profile.jpg" width="301" height="334" />
 
 ## Biography
 
@@ -17,19 +17,19 @@ from specification and definition of customer requirements and KPIs through data
 all while managing a group of highly intelligent and sarcastic data scientists.
 
 ## Talks
-[<img src="./photos/spark-for-data-scientists.png" style="width:500px;height:500px;">](spark_for_data_scientists.md)
-[<img src="./photos/diary-of-a-data-scientist.png" style="width:500px;height:500px;">](diary_of_a_data_scientist.md)
+[<img src="./photos/spark-for-data-scientists.png" width="500" height="500"/>](spark_for_data_scientists.md)
+[<img src="./photos/diary-of-a-data-scientist.png" width="500" height="500"/>](diary_of_a_data_scientist.md)
 
 #### Community
-[Join **data-il**](https://goo.gl/UCSsrE)[<img src="./icons/data-il.png" style="width:20px;height:20px;">](https://goo.gl/UCSsrE) 
+[Join **data-il**](https://goo.gl/UCSsrE)[<img src="./icons/data-il.png" width="20" height="20"/>](https://goo.gl/UCSsrE) 
 
 
 ### Contact:
-[<img src="./icons/medium.png" style="width:20px;height:20px;">](https://medium.com/@talperetz24)
-[<img src="./icons/github.png" style="width:20px;height:20px;">](https://github.com/talperetz)
-[<img src="./icons/linkedin.png" style="width:20px;height:20px;">](https://www.linkedin.com/in/tal-per/)
-[<img src="./icons/twitter.png" style="width:20px;height:20px;">](https://twitter.com/talperetz24)
-[<img src="./icons/facebook.png" style="width:20px;height:20px;">](https://www.facebook.com/talperetz24)
-[<img src="./icons/slack.png" style="width:20px;height:20px;">](https://goo.gl/UCSsrE)
+[<img src="./icons/medium.png" width="20" height="20"/>](https://medium.com/@talperetz24)
+[<img src="./icons/github.png" width="20" height="20"/>](https://github.com/talperetz)
+[<img src="./icons/linkedin.png" width="20" height="20"/>](https://www.linkedin.com/in/tal-per/)
+[<img src="./icons/twitter.png" width="20" height="20"/>](https://twitter.com/talperetz24)
+[<img src="./icons/facebook.png" width="20" height="20"/>](https://www.facebook.com/talperetz24)
+[<img src="./icons/slack.png" width="20" height="20"/>](https://goo.gl/UCSsrE)
 
 icons by [Axialis](https://www.iconfinder.com/WillE)
