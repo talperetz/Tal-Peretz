@@ -6,7 +6,7 @@ Tal Peretz, currently a Data Scientist @Panorays, have formerly played diverse r
 
 Tal participated in a special confidential course in which he accomplished his **Mathematics and Computer Science BSc in 1 year**.
 
-He then pivoted into an IAF software department in which he developed a large near real-time distributed critical system, focused on data fusion and data distribution with high performance, while pursuing his **MBA** with focus in **entrepreneurship, innovation and technological management**.
+He then pivoted into an IAF software department in which he developed a large near real-time distributed critical system, focused on data fusion and data distribution with high performance, while pursuing his **MBA in entrepreneurship, innovation and technological management**.
 
 Tal **founded the Israeli Air Force Data Science team**. 
 He initiated and lead end-to-end a large variety of classified data science projects in multidisciplinary fields, 
@@ -23,12 +23,12 @@ all while managing a group of highly intelligent and sarcastic data scientists.
 
 
 ## Contact:
-[<img src="./icons/medium.png" width="50" height="50"/>](https://medium.com/@talperetz24)
+[<img src="./icons/medium.png" width="49" height="49"/>](https://medium.com/@talperetz24)
 [<img src="./icons/github.png" width="50" height="50"/>](https://github.com/talperetz)
 [<img src="./icons/linkedin.png" width="50" height="50"/>](https://www.linkedin.com/in/tal-per/)
-[<img src="./icons/twitter.png" width="50" height="50"/>](https://twitter.com/talperetz24)
 [<img src="./icons/facebook.png" width="50" height="50"/>](https://www.facebook.com/talperetz24)
-[<img src="./icons/slack.png" width="50" height="50"/>](https://goo.gl/UCSsrE)
 [<img src="./icons/email.png" width="50" height="50"/>](mailto:talperetz24@gmail.com?subject=you%20are%20awesome&body=I%20really%20enjoyed%20your%20talk)
+[<img src="./icons/twitter.png" width="50" height="50"/>](https://twitter.com/talperetz24)
+[<img src="./icons/slack.png" width="50" height="50"/>](https://goo.gl/UCSsrE)
 
 icons by [Axialis](https://www.iconfinder.com/WillE)
