@@ -1,4 +1,4 @@
-<img src="./photos/profile.jpg" width="301" height="334" />
+<img src="./photos/tal_peretz_profile.jpg" width="301" height="334" />
 
 ## Biography
 
