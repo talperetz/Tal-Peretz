@@ -11,7 +11,7 @@ He then pivoted into an IAF software department in which he developed a large ne
 Tal **founded the Israeli Air Force Data Science team**. 
 He initiated and lead end-to-end a large variety of classified data science projects in multidisciplinary fields, 
 researching and solving challenging classification, regression, clustering, association rules and anomaly detection problems, 
-from specification and definition of customer requirements and KPIs through data acquisition, exploration, cleaning, transformations and feature engineering to fitting, validating, testing and deploying ml models. 
+from specification through data acquisition, exploration, cleaning, transformations and feature engineering to fitting, validating, testing and deploying ml models. 
 all while managing a group of highly intelligent and sarcastic data scientists.
 
 ## Talks
