@@ -1,5 +1,3 @@
-# About Tal Peretz
-
 <img src="./photos/profile.jpg" width="301" height="334" />
 
 ## Biography
@@ -17,19 +15,20 @@ from specification and definition of customer requirements and KPIs through data
 all while managing a group of highly intelligent and sarcastic data scientists.
 
 ## Talks
-[<img src="./photos/spark-for-data-scientists.png" height="500"/>](spark_for_data_scientists.md)
+[<img src="./photos/spark-for-data-scientists.png" height="500"/>](spark_for_data_scientists/spark_for_data_scientists.md)
 [<img src="./photos/diary-of-a-data-scientist.png" height="500"/>](diary_of_a_data_scientist.md)
 
-#### Community
+## Community
 [<img src="./icons/data-il.png" width="50" height="50"/>](https://goo.gl/UCSsrE)[ Join **data-il**](https://goo.gl/UCSsrE) 
 
 
-### Contact:
+## Contact:
 [<img src="./icons/medium.png" width="50" height="50"/>](https://medium.com/@talperetz24)
 [<img src="./icons/github.png" width="50" height="50"/>](https://github.com/talperetz)
 [<img src="./icons/linkedin.png" width="50" height="50"/>](https://www.linkedin.com/in/tal-per/)
 [<img src="./icons/twitter.png" width="50" height="50"/>](https://twitter.com/talperetz24)
 [<img src="./icons/facebook.png" width="50" height="50"/>](https://www.facebook.com/talperetz24)
 [<img src="./icons/slack.png" width="50" height="50"/>](https://goo.gl/UCSsrE)
+[<img src="./icons/email.png" width="50" height="50"/>](mailto:talperetz24@gmail.com?subject=you%20are%20awesome&body=I%20really%20enjoyed%20your%20talk)
 
 icons by [Axialis](https://www.iconfinder.com/WillE)
