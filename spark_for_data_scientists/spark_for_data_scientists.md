@@ -7,7 +7,7 @@
 
 ## Abstract
 
-While most of the data scientists are capable of handling python or R frameworks to solve Data Science and ML problems, we bump into some mental obstacles before solving problems using Spark. This talk goal is to **bring spark down to earth**.
+While most of us data scientists are capable of handling python or R frameworks to solve Data Science and ML problems, we bump into some mental obstacles before solving problems using Spark. This talk goal is to **bring Spark down to earth**.
 
 ## Agenda
 
