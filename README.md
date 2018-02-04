@@ -2,7 +2,7 @@
 
 ## Biography
 
-Tal Peretz, currently a Data Scientist @Panorays, have formerly played diverse roles in the Israeli Air Force<img src="./icons/IAF.png" width="40" height="40" />. 
+Tal Peretz, currently a Data Scientist @Panorays, have formerly played diverse roles in the Israeli Air Force<img src="./icons/IAF.png" width="40"/>. 
 
 Tal participated in a special confidential course in which he accomplished his **Mathematics and Computer Science BSc in 1 year**.
 
