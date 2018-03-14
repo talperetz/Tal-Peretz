@@ -31,6 +31,5 @@ all while managing a group of highly intelligent and sarcastic data scientists.
 [<img src="./icons/facebook.png" width="50" height="50"/>](https://www.facebook.com/talperetz24)
 [<img src="./icons/email.png" width="50" height="50"/>](mailto:talperetz24@gmail.com?subject=you%20are%20awesome&body=I%20really%20enjoyed%20your%20talk)
 [<img src="./icons/twitter.png" width="50" height="50"/>](https://twitter.com/talperetz24)
-[<img src="./icons/slack.png" width="50" height="50"/>](https://goo.gl/UCSsrE)
 
 icons by [Axialis](https://www.iconfinder.com/WillE)
