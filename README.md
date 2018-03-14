@@ -18,8 +18,10 @@ all while managing a group of highly intelligent and sarcastic data scientists.
 [<img src="./photos/spark_for_data_scientists.png" height="500"/>](spark_for_data_scientists/spark_for_data_scientists.md)
 [<img src="./photos/diary_of_a_data_scientist.png" height="500"/>](diary_of_a_data_scientist/diary_of_a_data_scientist.md)
 
-## Community
-[<img src="./icons/data-il.png" width="50" height="50"/>](https://goo.gl/UCSsrE)[ Join **data-il**](https://goo.gl/UCSsrE) 
+
+## Blog
+[<img src="./photos/21st_century_warrior.png">](https://www.21centurywarrior.com/)
+
 
 
 ## Contact:
