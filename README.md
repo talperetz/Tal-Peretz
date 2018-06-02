@@ -16,6 +16,7 @@ all while managing a group of highly intelligent and sarcastic data scientists.
 
 ## Publications
 [Deep Politics - First Step Towards an AI Takeover](https://medium.com/@talperetz24/deep-politics-first-step-towards-an-ai-takeover-236074c7c2d7)
+
 [Visualize Your Data with Google Data Studio](https://towardsdatascience.com/visualize-your-data-with-google-data-studio-609c38247905)
 
 

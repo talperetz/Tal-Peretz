@@ -30,7 +30,7 @@ About 30 min
 
 ## Awesome Links
 
-[Celery Documentation](http://docs.celeryproject.org/en/latest/index.html)
+[Celery Documentation](http://docs.celeryproject.org/en/latest/index.html)<br/>
 [Celery Configuration Params](http://docs.celeryproject.org/en/latest/userguide/configuration.html)<br/>
 [Celery Management Console Tutorial](https://developers.coveo.com/display/public/SitecoreV3/Accessing+the+RabbitMQ+Management+Console;jsessionid=EC3825EEC11DADC9DE3F3D3DE4A2C142)<br/>
 [Bitnami Rabbitmq VM Tutorial](https://console.cloud.google.com/compute/instancesDetail/zones/europe-west1-b/instances/rabbitmq-2-vm?q=search&project=panorays-main&graph=GCE_CPU&duration=PT1H)<br/>
