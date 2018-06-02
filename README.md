@@ -14,6 +14,11 @@ researching and solving challenging classification, regression, clustering, asso
 from specification through data acquisition, exploration, cleaning, transformations and feature engineering to fitting, validating, testing and deploying ml models. 
 all while managing a group of highly intelligent and sarcastic data scientists.
 
+## Publications
+[Deep Politics - First Step Towards an AI Takeover](https://medium.com/@talperetz24/deep-politics-first-step-towards-an-ai-takeover-236074c7c2d7)
+[Visualize Your Data with Google Data Studio](https://towardsdatascience.com/visualize-your-data-with-google-data-studio-609c38247905)
+
+
 ## Talks
 [<img src="./photos/spark_for_data_scientists.png" height="500"/>](spark_for_data_scientists/spark_for_data_scientists.md)
 [<img src="./photos/diary_of_a_data_scientist.png" height="500"/>](diary_of_a_data_scientist/diary_of_a_data_scientist.md)
