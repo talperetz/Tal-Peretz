@@ -7,16 +7,16 @@
 
 ## Abstract
 
-Talk about the transition from manually triggered bash scripts to a fully automated, flexible architecture that leverage distibuted task queues (Celery) and Kubernetes.
+Talk about the transition from manually triggered bash scripts to a fully automated, flexible and scalable architecture that leverage Kubernetes and distibuted task queues (Celery).
 
 ## Agenda
 
-- Our Problems at Panorays.
-- Solution.
-- The Rules.
-- Under The Hood.
-- Demo.
-- What's Next.
+- Our Problems at Panorays
+- Solution
+- The Rules
+- Under The Hood
+- Demo
+- What's Next
 
 ## Preview Slides
 
