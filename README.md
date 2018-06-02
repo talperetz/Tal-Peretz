@@ -6,7 +6,7 @@ Tal Peretz, currently a Data Scientist @Panorays, have formerly played diverse r
 
 Tal participated in a special confidential course in which he accomplished his **Mathematics and Computer Science BSc in 1 year**.
 
-He then pivoted into an IAF software department in which he developed a large near real-time distributed critical system, focused on data fusion and data distribution with high performance, while pursuing his **MBA in entrepreneurship, innovation and technological management**.
+He then pivoted to an IAF software department in which he developed a large near real-time Air Traffic Control system, focused on data fusion and data distribution, while pursuing his **MBA in entrepreneurship, innovation and technological management**.
 
 Tal **founded the Israeli Air Force Data Science team**. 
 He initiated and lead end-to-end a large variety of classified data science projects in multidisciplinary fields, 
@@ -17,12 +17,7 @@ all while managing a group of highly intelligent and sarcastic data scientists.
 ## Talks
 [<img src="./photos/spark_for_data_scientists.png" height="500"/>](spark_for_data_scientists/spark_for_data_scientists.md)
 [<img src="./photos/diary_of_a_data_scientist.png" height="500"/>](diary_of_a_data_scientist/diary_of_a_data_scientist.md)
-
-
-## Blog
-[<img src="./photos/21st_century_warrior.png">](https://www.21centurywarrior.com/)
-
-
+[<img src="./photos/the_transporter.png" height="500"/>](the_transporter/the_transporter.md)
 
 ## Contact:
 [<img src="./icons/medium.png" width="49" height="49"/>](https://medium.com/@talperetz24)
