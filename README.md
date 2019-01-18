@@ -11,17 +11,17 @@ Tal also writes for KDnuggets, Towards Data Science and HackerNoon. <br>
 You can reach him at talperetz.com <br>
 
 ## Publications
-[Mastering The New Generation of Gradient Boosting](https://towardsdatascience.com/https-medium-com-talperetz24-mastering-the-new-generation-of-gradient-boosting-db04062a7ea2)
-[Visualize Your Data with Google Data Studio](https://towardsdatascience.com/visualize-your-data-with-google-data-studio-609c38247905)
-[Scaling Effectively: when Kubernetes met Celery](https://hackernoon.com/https-medium-com-talperetz24-scaling-effectively-when-kubernetes-met-celery-e6abd7ce4fed)
-[Deep Politics - First Step Towards an AI Takeover](https://medium.com/@talperetz24/deep-politics-first-step-towards-an-ai-takeover-236074c7c2d7)
+[Mastering The New Generation of Gradient Boosting](https://towardsdatascience.com/https-medium-com-talperetz24-mastering-the-new-generation-of-gradient-boosting-db04062a7ea2)<br>
+[Visualize Your Data with Google Data Studio](https://towardsdatascience.com/visualize-your-data-with-google-data-studio-609c38247905)<br>
+[Scaling Effectively: when Kubernetes met Celery](https://hackernoon.com/https-medium-com-talperetz24-scaling-effectively-when-kubernetes-met-celery-e6abd7ce4fed)<br>
+[Deep Politics - First Step Towards an AI Takeover](https://medium.com/@talperetz24/deep-politics-first-step-towards-an-ai-takeover-236074c7c2d7)<br>
 
 
 ## Talks
-[<img src="./photos/mastering_the_new_generation_of_gradient_boosting.png" height="500"/>](mastering_the_new_generation_of_gradient_boosting/mastering_the_new_generation_of_gradient_boosting.md)
-[<img src="./photos/spark_for_data_scientists.png" height="500"/>](spark_for_data_scientists/spark_for_data_scientists.md)
-[<img src="./photos/diary_of_a_data_scientist.png" height="500"/>](diary_of_a_data_scientist/diary_of_a_data_scientist.md)
-[<img src="./photos/the_transporter.png" height="500"/>](the_transporter/the_transporter.md)
+[<img src="./photos/mastering_the_new_generation_of_gradient_boosting.png" height="500"/>](mastering_the_new_generation_of_gradient_boosting/mastering_the_new_generation_of_gradient_boosting.md)<br>
+[<img src="./photos/spark_for_data_scientists.png" height="500"/>](spark_for_data_scientists/spark_for_data_scientists.md)<br>
+[<img src="./photos/diary_of_a_data_scientist.png" height="500"/>](diary_of_a_data_scientist/diary_of_a_data_scientist.md)<br>
+[<img src="./photos/the_transporter.png" height="500"/>](the_transporter/the_transporter.md)<br>
 
 ## Contact:
 [<img src="./icons/medium.png" width="49" height="49"/>](https://medium.com/@talperetz24)
