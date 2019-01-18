@@ -2,25 +2,23 @@
 
 ## Biography
 
-Tal Peretz, currently a Data Scientist @Panorays, have formerly played diverse roles in the Israeli Air Force<img src="./icons/IAF.png" width="40"/>. 
+Tal Peretz is a Data Scientist, Software Engineer, and a Continuous Learner. <br> 
+You may know him as DataHack 2018 1st prize winner (with his brother). <br>
+Previously, he founded and lead the Israeli Air Force Data Science team. <br>
+Nowadays he is leveraging ML to fight fraud at simplex.com.  <br>
+Tal also writes for KDnuggets, Towards Data Science and HackerNoon. <br>
 
-Tal participated in a special confidential course in which he accomplished his **Mathematics and Computer Science BSc in 1 year**.
-
-He then pivoted to an IAF software department in which he developed a large near real-time Air Traffic Control system, focused on data fusion and data distribution, while pursuing his **MBA in entrepreneurship, innovation and technological management**.
-
-Tal **founded the Israeli Air Force Data Science team**. 
-He initiated and lead end-to-end a large variety of classified data science projects in multidisciplinary fields, 
-researching and solving challenging classification, regression, clustering, association rules and anomaly detection problems, 
-from specification through data acquisition, exploration, cleaning, transformations and feature engineering to fitting, validating, testing and deploying ml models. 
-all while managing a group of highly intelligent and sarcastic data scientists.
+You can reach him at talperetz.com <br>
 
 ## Publications
-[Deep Politics - First Step Towards an AI Takeover](https://medium.com/@talperetz24/deep-politics-first-step-towards-an-ai-takeover-236074c7c2d7)
-
+[Mastering The New Generation of Gradient Boosting](https://towardsdatascience.com/https-medium-com-talperetz24-mastering-the-new-generation-of-gradient-boosting-db04062a7ea2)
 [Visualize Your Data with Google Data Studio](https://towardsdatascience.com/visualize-your-data-with-google-data-studio-609c38247905)
+[Scaling Effectively: when Kubernetes met Celery](https://hackernoon.com/https-medium-com-talperetz24-scaling-effectively-when-kubernetes-met-celery-e6abd7ce4fed)
+[Deep Politics - First Step Towards an AI Takeover](https://medium.com/@talperetz24/deep-politics-first-step-towards-an-ai-takeover-236074c7c2d7)
 
 
 ## Talks
+[<img src="./photos/mastering_the_new_generation_of_gradient_boosting.png" height="500"/>](mastering_the_new_generation_of_gradient_boosting/mastering_the_new_generation_of_gradient_boosting.md)
 [<img src="./photos/spark_for_data_scientists.png" height="500"/>](spark_for_data_scientists/spark_for_data_scientists.md)
 [<img src="./photos/diary_of_a_data_scientist.png" height="500"/>](diary_of_a_data_scientist/diary_of_a_data_scientist.md)
 [<img src="./photos/the_transporter.png" height="500"/>](the_transporter/the_transporter.md)
